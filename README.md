@@ -9,4 +9,4 @@ The dataset used for this task is [worldpopulationdata.csv](https://github.com/j
 1. Data Cleaning: Identifying and resolving missing values, outliers, and inconsistencies to maintain accurate datasets.
 2. Exploratory Data Analysis (EDA): Gained proficiency in using visual tools such as bar charts and histograms to analyze data distributions, trends, and patterns.
 
-Through Task 1, you improved my ability to create visualizations that make it easier to understand datasets, particularly in areas like population demographics, helping you extract valuable insights quickly.
+Through Task 1, you improved my ability to create visualizations that make it easier to understand datasets, particularly in areas like population demographics, helping to extract valuable insights quickly.
